@@ -29,3 +29,4 @@ btnInstall.addEventListener("click", async () => {
     deferredPrompt = null;
     btnInstall.style.display = "none";
 });
+
